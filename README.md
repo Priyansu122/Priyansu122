@@ -1,7 +1,22 @@
 ## Hi there 👋
-I am Priyansu sahoo, an Electronics and Communication Engineer. Welcome to my Github profile.
-### About me
-- I have completed my undergraduation(BTech in ECE) in [Silicon University](https://www.linkedin.com/school/silicontech-bbs/)
+- I am [Priyansu sahoo](https://www.linkedin.com/in/priyansu-sahoo/), an Electronics and Communication Engineer. Welcome to my Github profile.
+- I have completed my undergraduation(BTech in ECE) in [Silicon University](https://www.linkedin.com/school/silicontech-bbs/) in 2024.
+### My Journey
+- Being a electronics strudent, My journey in VLSI started in my 2rd year.
+- During my 2rd year i have completed a course on "Digital design" where i got knowledge in Hardware description language, Digital design and basics of full custom
+  design, layouts etc.
+- In my 3rd year, i have completed a course in "Digital verification" in which i got knowledge on basics of verification enviroment and system verilog.
+- In my final year i got a oppertunity to do insternship in [Advance VLSI lab, SIT](https://www.linkedin.com/company/silicon-vlsi/)
+- There we are exposed to different domains of vlsi like </br>
+  1. Cell characterization
+  2. Standard cell layout
+  3. Process design kit(PDK) training etc.
+
+<!--
+- My first comapny is [CoreEL technologies](
+-->
+
+
 <a href="https://twitter.com/SubhamRath17">
   <img align="left" alt="Subham Rath | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
