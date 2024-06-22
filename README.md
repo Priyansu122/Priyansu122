@@ -2,7 +2,8 @@
 - I am [Priyansu sahoo](https://www.linkedin.com/in/priyansu-sahoo/), an Electronics and Communication Engineer. Welcome to my Github profile.
 - I have completed my undergraduation(BTech in ECE) in [Silicon University](https://www.linkedin.com/school/silicontech-bbs/) in 2024.
 ### My Journey
-- Being a electronics strudent, My journey in VLSI started in my 2rd year.
+- Being a electronics student i have started my carrer with Internet of things in my 1st year.
+- Then i ented into VLSI started in my 2rd year.
 - During my 2rd year i have completed a course on "Digital design" where i got knowledge in Hardware description language, Digital design and basics of full custom
   design, layouts etc.
 - In my 3rd year, i have completed a course in "Digital verification" in which i got knowledge on basics of verification enviroment and system verilog.
@@ -11,71 +12,46 @@
   1. Cell characterization
   2. Standard cell layout
   3. Process design kit(PDK) training etc.
+- I have also worked on FPGA like Spartan6.
+- I have Conducted a workshop for juniors on RTL to GDS flow using opensource tools.
+### Skills
+- **Tools** </br>
+  1. Xilinx, Cadence Virtuoso, Calibre, Spectre, Sue2, CppSim
+  2. Open Source tools like Iverilog, Gtkwave, Yosys, Openroad flow, nextpnr etc.          - 
+- **Programming** - C, Python, Verilog(HDL)
+- **Productivity** - MS Office
+- **Operating System** - Windows, Linux*
+*Currently learning
 
-<!--
-- My first comapny is [CoreEL technologies](
--->
-
-
-<a href="https://twitter.com/SubhamRath17">
-  <img align="left" alt="Subham Rath | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
-<a href="https://discord.gg/6baTMaAD">
-  <img align="left" alt="Subham's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=SubhamRath.SubhamRath)
-
-<br />
-
-Hi I'm Subham Rath, a pre-final year undergrad from [Silicon Institute Of Technology ,Bhubaneswar](https://www.silicon.ac.in/) .I am passionate about Electronics and have some Specilized skills like Analog and Digital Layout design, STA, RTL design, FPGA implementation etc. 
-
-I am looking for internships in field of Digital and Analog VLSI design. 
-
-- Profile Summary:
-
-    - Good understanding of CMOS Integrated Circuit (IC) design.
-    - Basic understanding of CMOS SRAM design and Memory Compiler.
-    - Knowledge of CMOS Layout and Scribe Line Layout.
-    - Basic understanding of FPGA implementation.
-    - Created a temperature sensing circuit using PT100 with LabVIEW interface.
-    - Basic training in Logic Synthesis and Static Timing Analysis (STA).
-    - Having knowledge about STA, Delay Model & calculation, and familiar with OpenSTA.
-    - Familiar with different IO files used in a VLSI flow.
-    - Fundamentally strong in Digital/Analog Electronics, Control System, & Analog Communication & Digital Signal Processing.
-    - Familiar with Embedded Programming,Experienced in several IoT projects.
-
-- Education:
+### Education
 
 | Passout Year  | Instituition  | Course | Grade |
 | ------------- | ------------- | -----  | ----- |
-| 2022  | Silicon Institute Of Technology, Bhubaneswar  | B.tech(ECE) | 9.58 |
-| 2018  | Sri Aurobindo Science College, Cuttack  | 12th PCMB | 87.63% |
-| 2016  | Saraswati Shishu Vidya Mandir, Jagatsinghpur | 10th | 90.33% |
+| 2024  | Silicon Institute Of Technology, Bhubaneswar  | B.tech(ECE) | 9.61 |
+| 2019  | College of Basic Science and Humanities, OUAT  | 12th PCME | 72.33% |
+| 2016  | Vivekananda siksha kendra, Unit-4, Bhuaneswar | 10th | 89.1% |
 
-- 🔭 I’m currently working on 28nm CMOS Layout Design
-- 🌱 I’m currently learning Digital and Analog Physical Design Flow
-- 👯 I’m looking to collaborate on Projects related to VLSI Design
-- 🤔 I’m looking for help with Analog Circuit Design
-- 💬 Ask me about anything, I will help from my knowledge base
-- 📫 How to reach me: <img src="https://user-images.githubusercontent.com/16131737/65396536-0b6e0480-dd5c-11e9-896d-c11d0bc70e84.gif" width="30px"> [Subham Rath](mailto:srath953@gmail.com) 
-- ⚡ Fun fact: If you recalculate Moore's law on a weekly basis, the VLSI industry has been getting a ~1% improvement in its products every working week on average. For the last 40 years.
+### Projects
+Some of the major projects that i have done in my academic carrer are :
+- [**16 byte SRAM design**](https://github.com/Priyansu122/SRAM-Project-2023): </br>
+    Designed a 16-byte SRAM (Static Random Access Memory) using the 180nm technology node, employing a full custom approach.
+- [**Digital Temperature Monitor**](Digital Temperature Monitor): </br>
+    - This project implements a digital temperature monitor by connecting a temperature sensor ([LM70](docs/datasheet-LM70-TI-tempSensor.pdf) [`docs/datasheet-LM70-TI-tempSensor.pdf`]) and a three-segment display to measure and display a range of $0-99^\circ C$ or $0-99^\circ F$ with an accuracy of $\pm 2^\circ C$.
+    - I was a contributor in this project.
 
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SubhamRath&show_icons=true&theme=gotham" alt="SubhamRath" />
 <!--
-**Priyansu122/Priyansu122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [**MQTT BASED GAS ALERTING SYSTEM**](): </br>
+    - This project implements a digital temperature monitor by connecting a temperature sensor ([LM70](docs/datasheet-LM70-TI-tempSensor.pdf) [`docs/datasheet-LM70-TI-tempSensor.pdf`]) and a three-segment display to measure and display a range of $0-99^\circ C$ or $0-99^\circ F$ with an accuracy of $\pm 2^\circ C$.
+    - I was a contributor in this project.
+-->
 
-Here are some ideas to get you started:
+## Contact
+- 📫 How to reach me: [priyansusahoo814@gmail.com] or [LinkedIn](https://www.linkedin.com/in/priyansu-sahoo/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+Thanks for visiting my profile! 
+  
+<!--
+- My first comapny is [CoreEL technologies]
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Priyansu122&show_icons=true&theme=gotham" alt="Priyansu" />
 -->
