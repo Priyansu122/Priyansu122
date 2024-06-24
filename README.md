@@ -2,25 +2,24 @@
 - I am [Priyansu sahoo](https://www.linkedin.com/in/priyansu-sahoo/), an Electronics and Communication Engineer. Welcome to my Github profile.
 - I have completed my undergraduation(BTech in ECE) in [Silicon University](https://www.linkedin.com/school/silicontech-bbs/) in 2024.
 ### My Journey
-- Being a electronics student i have started my carrer with Internet of things in my 1st year.
-- Then i ented into VLSI started in my 2rd year.
-- During my 2rd year i have completed a course on "Digital design" where i got knowledge in Hardware description language, Digital design and basics of full custom
-  design, layouts etc.
-- In my 3rd year, i have completed a course in "Digital verification" in which i got knowledge on basics of verification enviroment and system verilog.
-- In my final year i got a oppertunity to do insternship in [Advance VLSI lab, SIT](https://www.linkedin.com/company/silicon-vlsi/)
-- There we are exposed to different domains of vlsi like </br>
-  1. Cell characterization
-  2. Standard cell layout
-  3. Process design kit(PDK) training etc.
-- I have also worked on FPGA like Spartan6.
-- I have Conducted a workshop for juniors on RTL to GDS flow using opensource tools.
+- Started my career in IoT during my first year as an electronics student.
+- Transitioned to VLSI in my second year.
+- Completed a "Digital Design" course, gaining expertise in HDL, digital design, and custom layouts.
+- In my third year, completed a "Digital Verification" course, learning about verification environments and SystemVerilog.
+- Interned at the Advanced VLSI Lab, SIT in my final year, gaining exposure to:</br>
+     - Cell characterization
+     - Standard cell layout
+     - PDK training
+- Worked with FPGAs, including the Spartan6.
+- Conducted a workshop on RTL to GDS flow using open-source tools for juniors.
+
 ### Skills
 - **Tools** </br>
   1. Xilinx, Cadence Virtuoso, Calibre, Spectre, Sue2, CppSim
   2. Open Source tools like Iverilog, Gtkwave, Yosys, Openroad flow, nextpnr etc.          - 
 - **Programming** - C, Python, Verilog(HDL)
 - **Productivity** - MS Office
-- **Operating System** - Windows, Linux*
+- **Operating System** - Windows, Linux* </br>
 *Currently learning
 
 ### Education
@@ -29,7 +28,7 @@
 | ------------- | ------------- | -----  | ----- |
 | 2024  | Silicon Institute Of Technology, Bhubaneswar  | B.tech(ECE) | 9.61 |
 | 2019  | College of Basic Science and Humanities, OUAT  | 12th PCME | 72.33% |
-| 2016  | Vivekananda siksha kendra, Unit-4, Bhuaneswar | 10th | 89.1% |
+| 2017  | Vivekananda siksha kendra, Unit-4, Bhuaneswar | 10th | 89.1% |
 
 ### Projects
 Some of the major projects that i have done in my academic carrer are :
