@@ -33,7 +33,10 @@
 ### Projects
 Some of the major projects that i have done in my academic carrer are :
 - [**16 byte SRAM design**](https://github.com/Priyansu122/SRAM-Project-2023): </br>
-    Designed a 16-byte SRAM (Static Random Access Memory) using the 180nm technology node, employing a full custom approach.
+    - Designed a 16-byte SRAM (Static Random Access Memory) using the 180nm technology node, employing a full custom approach.
+    - This project is a comprehensive training initiative completed during my internship. It involved the entire process from design and characterization to layout, providing me with hands-on experience in full 
+      custom design
+  
 - [**Digital Temperature Monitor**](https://github.com/silicon-efabless/tt06-silicon-tinytapeout-lm07?tab=readme-ov-file#project-description): </br>
     - This project implements a digital temperature monitor by connecting a temperature sensor ([LM70](docs/datasheet-LM70-TI-tempSensor.pdf) [`docs/datasheet-LM70-TI-tempSensor.pdf`]) and a three-segment display to measure and display a range of $0-99^\circ C$ or $0-99^\circ F$ with an accuracy of $\pm 2^\circ C$.
     - In this project, I have enhanced the design by adding several new features and ensuring it is ready for fabrication using the [Tiny Tapeout](https://tinytapeout.com/) platform.
